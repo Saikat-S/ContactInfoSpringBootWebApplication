@@ -1,7 +1,7 @@
 # Contact Info Spring Boot Web Application
 A Contact Information management Spring Boot Web Application. It's a coding task from TigerIT Bangladesh Ltd.
 
-### Spring Boot Starters Information:
+### Spring Boot Starters Information
 - **Generate:** Maven Project
 - **Java Version:** 11 
 - **Spring Boot:** 2.5.5
@@ -12,7 +12,7 @@ A Contact Information management Spring Boot Web Application. It's a coding task
 - **Packaging:** jar
 - **Dependencies:** Spring Web, Spring Data JPA, MySQL Driver, DevTools, Thymeleaf
 
-### Database
+### Database:
 - MySQL Community server
 - MySQL Workbench
 
@@ -21,7 +21,7 @@ A Contact Information management Spring Boot Web Application. It's a coding task
 - Ubuntu 20.00
 
 
-### Compile the project:
+### Compile the Project
 First you have to create a database schema. Then edit the [application.properties](https://github.com/Saikat-S/ContactInfoSpringBootWebApplication/blob/main/src/main/resources/application.properties) file with your **datasource.url** , **datasource.username** and **datasource.password**. 
 
 ```
